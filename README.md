@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Sid! I am currently a first year Masters of Engineering student at the University of Warwick, studying Computer Science. 
+
+I am currently learning React, Flask 
+
+
 <!--
 **siddharthsrivastava0501/siddharthsrivastava0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
