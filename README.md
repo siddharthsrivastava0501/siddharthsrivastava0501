@@ -1,21 +1,22 @@
-### Hi there 👋
+## Hi there! I'm Sid 👋🏼
 
-I am Sid! I am currently a first year Masters of Engineering student at the University of Warwick, studying Computer Science. 
+### About Me
+- 🎓 I'm a first-year Computer Science student at the University of Warwick 🇬🇧
+- 👨🏼‍💻 I’m currently working through [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) on Coursera
+- ❤️ Web scraping
+- 🥅 My goal is to contribute to more open source code
+- 📍 Currently based in Singapore
 
-I am currently learning React, Flask 
+### Reach me! 
+<a href="https://www.linkedin.com/in/siddharth-srivastava-5a8474185/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/siddharthsrivastava0501">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
+</a>
+<a href="https://siddharthsrivastava0501.github.io">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 
+                                                                                                  
 
-<!--
-**siddharthsrivastava0501/siddharthsrivastava0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
