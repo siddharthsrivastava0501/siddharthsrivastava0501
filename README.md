@@ -2,10 +2,10 @@
 
 ### About Me
 - 🎓 I'm a first-year Computer Science student at the University of Warwick 🇬🇧
-- 👨🏼‍💻 I’m currently working through [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) on Coursera
-- ❤️ Web scraping
-- 🥅 My goal is to contribute to more open-source code
-- 📍 Currently based in Singapore
+- 👨🏼‍💻  I’m currently working through [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) on Coursera
+- ❤️  Web scraping
+- 🥅  My goal is to contribute to more open-source code
+- 📍  Currently based in Singapore
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/siddharth-srivastava-5a8474185/">
