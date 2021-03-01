@@ -1,7 +1,7 @@
 ## Hi there! I'm Sid 👋🏼
 
 ### About Me
-- 🎓 I'm a first-year Computer Science student at the University of Warwick 🇬🇧
+- 🎓  I'm a first-year Computer Science student at the University of Warwick 🇬🇧
 - 👨🏼‍💻  I’m currently working through [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react) on Coursera
 - ❤️  Web scraping
 - 🥅  My goal is to contribute to more open-source code
